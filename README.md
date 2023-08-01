@@ -14,11 +14,6 @@ These are the Laboratory Programs at the Department of Computer Science and Engi
 
 - Simulation of Logic Circuits Using Verilog: Verification of Logic Gates and logic expressions, Simplification of Expressions using Kmap: SOP and POS Forms, Multilevel NAND, NOR Circuits, Arithmetic Circuits: Half Adder, Full Adder, Multi-Bit Adder/Subtractor, BCD Adder, Multiplexers, Decoders and Encoders, Code Converters and Comparator, Flip-Flops: D, JK, and T Flip-Flops, Registers: Shift Register, Ring Counter, Johnson Counter, Binary Counters, Simple processor design
 
-- Verilog (VHDL) has been used to write the programs on MAX+plus II.
-
-- Software: [MAX+plus II](https://drive.google.com/file/d/1xIe0Iwcshw5QBu3qQCElQYvg4hfgJ7_F/view)
-
-- [How to install MAX+Plus II - Baseline version](https://www.youtube.com/watch?v=0nMumibwhHg)
 
 **CSE 2163: Object Oriented Programming Lab (OOPL)** 
 
@@ -28,7 +23,7 @@ These are the Laboratory Programs at the Department of Computer Science and Engi
 
 **CSE 2164: Open Source Technologies Lab (OSTL)** 
 
-- Vim, emacs, HTML, CSS, Report and presentation software: latex, beamer, drawing software, IDE, code reading, debugging, Basic Java, Java collections, interfaces, Java threads, Java GUI, Introduction to documentation, Version management, Unix basics, Unix tools, Bash scripting, Unix pipes, Python programming, Makefile, libraries and linking, Graph plotting software, Profiling tools.
+- HTML, CSS, Report and presentation software: latex, beamer, drawing software, IDE, code reading, debugging, Basic Java, Java collections, interfaces, Java threads, Java GUI, Introduction to documentation, Version management, Unix basics, Unix tools, Bash scripting, Unix pipes, Makefile, libraries and linking, 
 
 
 ## 4th Semester: 
@@ -46,9 +41,6 @@ These are the Laboratory Programs at the Department of Computer Science and Engi
 - These programs were executed on Oracle Database in SQL. (Orcale 11G XE) 
 - PL/SQL has also been used.
 
-- Software: [Orcale 11G XE](https://drive.google.com/drive/folders/1YNknJ4L81MpiwhE032bJvhJrkrIPXtcu)
-
-- [Online SQL Compiler](https://www.tutorialspoint.com/execute_sql_online.php) 
 
 **CSE 2263: Embedded Systems Lab**
 
